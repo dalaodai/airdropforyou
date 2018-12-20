@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/*font-family: 'Roboto', sans-serif;*/
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+/*font-family: 'Lobster', cursive;*/
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+/*font-family: 'Dancing Script', cursive;*/
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+/*font-family: 'Pacifico', cursive;*/
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+/*font-family: 'Amatic SC', cursive;*/
+.dancingScriptText {
+	font-family: 'Dancing Script', cursive;
+}
+
+.robotoText {
+	font-family: 'Roboto', sans-serif;
+}
+
+.lobsterText {
+	font-family: 'Lobster', cursive;
+}
+.pacificoText {
+	font-family: 'Pacifico', cursive;
+}
+.amaticSCText {
+	font-family: 'Amatic SC', cursive;
+}
+
+/*khong lien quan*/
+
+#borderimg3 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(../border.png)20% round;
+}
